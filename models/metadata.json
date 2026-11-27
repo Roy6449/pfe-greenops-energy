@@ -1,0 +1,22 @@
+{
+  "building_mapping": {
+    "0": "Bear_education_Destiny",
+    "1": "Bear_education_Liliana",
+    "2": "Bear_education_Nanette"
+  },
+  "thresholds": {
+    "Bear_education_Destiny": 39.29083331595297,
+    "Bear_education_Liliana": 56.92711597793708,
+    "Bear_education_Nanette": 40.051655626178224
+  },
+  "features": [
+    "building_code",
+    "temperature_c",
+    "hour",
+    "day_of_week",
+    "is_weekend",
+    "month",
+    "lag_24h",
+    "rolling_mean_24h"
+  ]
+}
